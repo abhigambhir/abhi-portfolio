@@ -5,7 +5,7 @@ import ScrollAnimation from "react-animate-on-scroll";
 
 export function Films() {
 	return (
-		<Container id="Films`">
+		<Container id="Films">
 			<h2>My Films</h2>
 
 			<div className="projects">
@@ -14,7 +14,7 @@ export function Films() {
 						<iframe
 					
 							src="https://www.youtube.com/embed/Cvvzq5yIEB8"
-							title="YouTube video player"
+							title="YouTube video players"
 							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 							allowFullScreen
 						></iframe>
